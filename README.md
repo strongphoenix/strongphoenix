@@ -1,10 +1,9 @@
 # Front-end developer
 
-## Over 7 years, I am focusing on Front-end development.__
-### Bachelor's degree at computer science, __
-React.js | Next.js | Typescript | Tailwind CSS | SCSS.__
-Storybook | Jest | Cypress__
-Docker__
-GraphQL | Hasura | RestAPI | Swagger__
-Jira | Agile | Git__
-__
+## Over 7 years, I am focusing on Front-end development.<br />
+### Bachelor's degree at computer science,<br />
+React.js | Next.js | Typescript | Tailwind CSS | SCSS.<br />
+Storybook | Jest | Cypress<br />
+Docker<br />
+GraphQL | Hasura | RestAPI | Swagger<br />
+Jira | Agile | Git<br />
