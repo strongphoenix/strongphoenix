@@ -8,3 +8,5 @@
 - Jira | Agile | Git<br />
 
 Love to make high-quality, optimized, scalable, easy-to-maintain and best practice code.
+User experience, client satisfy comes first option to professional developer.
+We go together to make world better.
