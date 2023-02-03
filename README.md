@@ -1,6 +1,6 @@
 # Front-end developer
 
-- React.js | Next.js | Typescript | Tailwind CSS | SCSS<br />
+- React.js | Vue.js | Next.js | Typescript | Tailwind CSS | SCSS<br />
 - Storybook | Jest | Cypress<br />
 - Docker<br />
 - GraphQL | Apollo | Hasura | RestAPI | Swagger<br />
