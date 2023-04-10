@@ -1,4 +1,4 @@
-# Front-end developer
+# Exceptional Full stack web & Blockchain developer
 
 - React.js | Vue.js | Next.js | Typescript | Tailwind CSS | SCSS<br />
 - Storybook | Jest | Cypress<br />
