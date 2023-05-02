@@ -1,4 +1,4 @@
-# Exceptional Full stack web & Blockchain developer
+# Exceptional Full stack developer
 
 - React.js | Vue.js | Next.js | Typescript | Tailwind CSS | SCSS<br />
 - Storybook | Jest | Cypress<br />
@@ -9,4 +9,4 @@
 - ESLint | Prettier | ECMAScript<br />
 - Jira | Agile | Git<br />
 
-Please contact me today and see how we can go together and make world better! <br /> 
+## Please contact me today and see how we can go together and make world better! <br /> 
