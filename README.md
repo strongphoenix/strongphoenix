@@ -10,3 +10,4 @@
 - Jira | Agile | Git<br />
 
 ## Please contact me today and see how we can go together and make world better! <br /> 
+pheonix20210101@gmail.com
