@@ -1,4 +1,4 @@
-# Exceptional Full stack developer
+# Senior Full stack developer
 
 - React.js | Vue.js | Next.js | Typescript | Tailwind CSS | SCSS<br />
 - Storybook | Jest | Cypress<br />
