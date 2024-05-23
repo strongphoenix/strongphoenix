@@ -2,7 +2,7 @@
 
 - React.js | Vue.js | Next.js | Typescript | Tailwind CSS | SCSS<br />
 - Storybook | Chromatic | Jest | Cypress<br />
-- Docker | Tilt<br />
+- Docker | Kubernetes | Tilt<br />
 - Yalc
 - Node.js | Python | Django<br />
 - Prisma | PostgreSQL | MySQL | MongoDB | AWS Amplify | AWS Cognito<br />
