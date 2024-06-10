@@ -9,6 +9,3 @@
 - GraphQL | Apollo | Hasura | RestAPI | Swagger<br />
 - ESLint | Prettier | ECMAScript<br />
 - Jira | Agile | Git<br />
-
-## Please contact me today and see how we can make world better! <br /> 
-// secondphoenix1001@gmail.com
