@@ -10,5 +10,5 @@
 - ESLint | Prettier | ECMAScript<br />
 - Jira | Agile | Git<br />
 
-# Please contact me today and see how we can make world better.
+# Please contact me today and see how we can make the world better.
 secondphoenix1001@gmail.com
